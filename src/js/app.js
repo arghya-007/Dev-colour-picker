@@ -1,4 +1,4 @@
-// Add BG Color to DIVs
+// Add BG Color to DIVs.
 const colors = document.querySelectorAll(".colors__grid .color");
 
 colors.forEach(color => {
